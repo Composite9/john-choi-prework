@@ -1,0 +1,34 @@
+p {
+  font-size: xx-small;
+  text-align: center;
+}
+
+#navibar {
+  width: 100%;
+  background-color: grey;
+  margin: 0 0 15px;
+}
+
+#left {
+  padding: 110px 0;
+  width: 50%;
+  background-color: blue;
+  margin: 0 0 100px;
+  float: left;
+  
+}
+
+#right {
+  padding: 110px 0;
+  width: 25%;
+  background-color: red;
+  margin: 0 0 100px;
+  float: right;
+}
+
+#footer {
+  width: 100%;
+  background-color: green;
+  margin: 20px 0 0;
+  clear: both;
+}
