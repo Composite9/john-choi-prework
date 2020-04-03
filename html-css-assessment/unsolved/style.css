@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  line-height: 1.5;
+  text-transform: uppercase;
+  background-color: #79b9C6;
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.splash {
+  height: 450px;
+  vertical-align: middle;
+  text-align: center;
+  margin: auto;
+  
+}
+
+#brand {
+  font-size: small;
+  font-weight: bold;
+}
+
+#service {
+  font-size: 50px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+#action {
+  border: solid;
+  width: 100px;
+  margin: auto;
+  font-size: x-small;
+  padding: 5px;
+}
